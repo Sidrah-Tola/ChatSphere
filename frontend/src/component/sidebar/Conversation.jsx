@@ -1,4 +1,6 @@
 import React from 'react'
+import userAvatar from "../../assets/user.png"
+
 
 const Conversation = () => {
   return <>
