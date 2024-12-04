@@ -3,6 +3,7 @@ import GenderCheckbox from '../component/GenderCheckbox'
 import { Link } from "react-router-dom"
 
 
+
 const SignUp = () => {
   return (
     <div className="flex flex-col items-center justify-center min-w-96 mx-auto">
@@ -63,9 +64,11 @@ const SignUp = () => {
 
 
 
+
       </form>
       </div>
       </div>
+    
   )
 }
 
